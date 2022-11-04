@@ -2,7 +2,7 @@ import React from 'react';
 import { Route, Routes, Link } from 'react-router-dom';
 import Login from '../Pages/Login';
 import Register from '../Pages/Register';
-import logo from '../Assets/img/brand/white.png';
+import logo from '../Assets/Img/brand/white.png';
 
 export default () => (
  <div className="bg-default">
